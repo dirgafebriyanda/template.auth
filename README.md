@@ -33,7 +33,7 @@ Open `index.html` directly in your browser.
 Or run a local server:
 
 ```bash
-npx serve
+npm run dev
 ```
 
 ## Customization
