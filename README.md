@@ -23,6 +23,7 @@ Live Demo: https://template-auth-ruddy.vercel.app/
 ```bash
 git clone https://github.com/dirgafebriyanda/template.auth.git
 cd template.auth
+npm install
 ```
 
 ### Open Project
